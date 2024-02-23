@@ -14,4 +14,4 @@ concrete aspects of code efficiency
 - Input data received via stdin, results to be provided via stdout
 
 ## Problem
-The problem statement can be found [here](problem.pdf). The problem.pdf document was given me from my professor. 
+The problem statement can be found [here](problem.pdf). The problem.pdf document was given to me by my professor. 
