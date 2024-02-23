@@ -1,5 +1,5 @@
 # API_2022-23
-Algorithms and Data Structures (API) project 2022/23 at Politecnico di Milano
+Algorithms and Data Structures (API) project 2022/23 at Politecnico di Milano. Professor: Barenghi Alessandro.
 
 ## Educational objectives and implementation
 ### Goals
@@ -12,3 +12,6 @@ concrete aspects of code efficiency
 - No external libraries beyond the C standard library
 - No multithreading
 - Input data received via stdin, results to be provided via stdout
+
+## Problem
+The problem statement can be found [here](problem.pdf). The problem.pdf document was given me from my professor. 
