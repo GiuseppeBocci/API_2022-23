@@ -1,5 +1,5 @@
-# API_2023-24
-Algorithms and Data Structures (API) project 2023/24 at Politecnico di Milano
+# API_2022-23
+Algorithms and Data Structures (API) project 2022/23 at Politecnico di Milano
 
 ## Educational objectives and implementation
 ### Goals
